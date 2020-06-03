@@ -1,7 +1,7 @@
 # Etch-A-Sketch
 
-**Part 1**
-- 16x16 grid of square divs, all contained within one container div
+**Details**
+- 16x16 grid of square divs (960px by 960px), all contained within one container div
 
 - hover makes single box permanently change color
 
